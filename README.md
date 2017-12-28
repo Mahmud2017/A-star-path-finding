@@ -1,2 +1,2 @@
 # A-star-path-finding-C-sharp
-A star path finding algorithm in C sharp. It ignores the diagonal path.
+A star path finding algorithm. It ignores the diagonal path.
